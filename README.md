@@ -1,2 +1,3 @@
 # Memory-Card-game-
-Basically a Memory  Card Game which is built with the help of css,javascript,html for me as a begginer  
+Basically a Memory  Card Game which is built with the help of css,javascript,html for me as a beginer
+i surf through internet to find a decent game fot 
